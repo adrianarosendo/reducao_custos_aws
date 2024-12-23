@@ -31,8 +31,11 @@ Conclusão
 A implementação das ferramentas na Abstergo Industries trouxe benefícios significativos, incluindo a redução de custos com armazenamento, servidores e banco de dados. A utilização do Amazon S3 Intelligent-Tiering, AWS EC2 Auto Scaling e AWS RDS vai contribuir para a otimização de recursos e maior eficiência operacional. A empresa terá um ambiente mais ágil, com custos ajustados de acordo com a demanda. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam ainda mais aprimorar os processos da empresa.
 
 Anexos
-[[lista de anexos, como manuais, documentos, planilhas, entre outros]](https://aws.amazon.com/pt/rds/)
+1. https://aws.amazon.com/pt/rds/
+2. https://aws.amazon.com/pt/pm/serv-s3/#Learn_More_About_Amazon_S3
+3. https://aws.amazon.com/pt/autoscaling/
+
 
 Assinatura do Responsável pelo Projeto:
 
-[Nome do Responsável pelo Projeto]
+Adriana M. R.
