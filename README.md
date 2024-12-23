@@ -15,9 +15,17 @@ Foco da ferramenta: Armazenamento de dados com otimização automática de custo
 
 Descrição de caso de uso: Vamos efetuar a migração de arquivos de inventário, contabilidade, histórico de funcionários, histórico de clientes e vendas para o Amazon S3, com a classe de armazenamento Intelligent-Tiering para ajustar automaticamente os custos com base no padrão de acesso aos dados. Este serviço reduz custos de armazenamento sem a necessidade de intervenção manual.
 
-Etapa 2: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de uso]
+Etapa 2: - Nome da ferramenta: AWS EC2 Auto Scaling
 
-Etapa 3: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de uso]
+Foco da ferramenta: Redução de custos com servidores virtuais
+
+Descrição de caso de uso: A ferramenta foi configurada para ajustar automaticamente o número de instâncias EC2 em uso, conforme a demanda, garantindo que os recursos sejam utilizados de maneira mais eficiente e econômica.
+
+Etapa 3: - Nome da ferramenta: AWS RDS (Relational Database Service)
+
+Foco da ferramenta: Otimização e gestão de banco de dados
+
+Descrição de caso de uso: A implementação do AWS RDS vai permitir que a empresa migrasse suas bases de dados para um ambiente gerenciado, com escalabilidade automática e backups automatizados. Isso vai reduzir a necessidade de manutenção manual e garantir um desempenho consistente, com custos conforme a utilização.
 
 Conclusão
 A implementação de ferramentas na empresa [nome da empresa] tem como esperado [benefícios das ferramentas], o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
