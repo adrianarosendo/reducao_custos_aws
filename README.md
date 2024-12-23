@@ -28,10 +28,10 @@ Foco da ferramenta: Otimização e gestão de banco de dados
 Descrição de caso de uso: A implementação do AWS RDS vai permitir que a empresa migrasse suas bases de dados para um ambiente gerenciado, com escalabilidade automática e backups automatizados. Isso vai reduzir a necessidade de manutenção manual e garantir um desempenho consistente, com custos conforme a utilização.
 
 Conclusão
-A implementação de ferramentas na empresa [nome da empresa] tem como esperado [benefícios das ferramentas], o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação das ferramentas na Abstergo Industries trouxe benefícios significativos, incluindo a redução de custos com armazenamento, servidores e banco de dados. A utilização do Amazon S3 Intelligent-Tiering, AWS EC2 Auto Scaling e AWS RDS vai contribuir para a otimização de recursos e maior eficiência operacional. A empresa terá um ambiente mais ágil, com custos ajustados de acordo com a demanda. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam ainda mais aprimorar os processos da empresa.
 
 Anexos
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+[[lista de anexos, como manuais, documentos, planilhas, entre outros]](https://aws.amazon.com/pt/rds/)
 
 Assinatura do Responsável pelo Projeto:
 
